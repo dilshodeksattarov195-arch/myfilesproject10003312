@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailselete",
+        "uuid": 13019472,
+        "checksum": "62hfgh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
